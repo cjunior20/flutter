@@ -1,0 +1,51 @@
+# pack-refs with: peeled fully-peeled sorted 
+fee7a7da77eae5c61d03cfe7c12da508f45a9450 refs/heads/dependabot/github_actions/subosito/flutter-action-2.4.0
+f1666635a572943af9a39a092cce297fb952019d refs/heads/dependabot/gradle/android/com.android.tools.build-gradle-7.2.0
+7cea49c07bf08806ce0067f610265295eb28c42a refs/heads/dependabot/gradle/android/com.google.zxing-core-3.5.0
+04cce87b172b5bac43bab396e504904a155bf782 refs/heads/dependabot/gradle/android/kotlin_version-1.6.21
+f0eee50c37aec7ddc8d802737d6865e9dadc9cc6 refs/heads/dependabot/gradle/example/android/com.android.tools.build-gradle-7.2.0
+77bb6eb6a9837a773fe1a7885c236f48392da4e5 refs/heads/dependabot/gradle/example/android/kotlin_version-1.6.21
+5c8a34b848e4e1bad6b4c987d89634b90fd3ab9e refs/heads/flutter-beta
+f55ba22b33ab9d0d88c71968d3ba6eaed8f048eb refs/heads/master
+bb48f87e4e0d1ed35e11e2a174086f4a21dab0cc refs/heads/mlkit
+7229415c1a40c1ff85c620a5c178db4a3a6cf50e refs/heads/updated-layout
+da5e596f87304d79b379c53e01849343a5df5d1e refs/tags/0.0.1
+^e51f61283ced55abb6200ffeb6ee960b15edd07d
+d972038674f3dbaee2102a3a20b896a1d285658f refs/tags/0.0.11
+^f93ff179ecf417362401beabee927b30ad358db5
+3932f926ff06b14b47f1cef0a9530d59ec9bad6f refs/tags/0.0.12
+^0054c9dc39ab9c9ce9d0cba7032e96f2448d7910
+2ccab0aa13337496bfacc0922247d47e6f33ad33 refs/tags/0.0.14
+^243188bd9e8b82a2de9e4e7ee887cc8e076ac927
+b0776a7623775dea623ed0067002f2183010aa0e refs/tags/0.0.2
+^1afdeab3b1015689b0f9331c5078cc9191b0ed92
+d792d939bc212e606d5bcc2562d398bba1a39e67 refs/tags/0.0.3
+^dc6389023c0f0fb636366bc1225b115e07d4ed05
+d11583c13e0fcdd26d916929a0b50080a660b01d refs/tags/0.0.4
+^6028c58cdd0c341a2d40077bcb5656a48a276f43
+85242ca9ac18741654e5d991f492ee64aef978f7 refs/tags/0.0.5
+^377b301aa8551ce68e58020cd973115a2c62871a
+85c3a88ceab103c9604b7570c0339fc575b77606 refs/tags/0.0.7
+^7f431827c637f9752f3d46cdc687947549d00e1b
+094e316f211438bb8cf14964672a82a0cbfcd95b refs/tags/0.0.8
+^77a982f3ed2e9abb942a096d48808c51138b5f11
+d70ded0bb0e79ee0670e5511b55f91c3fef23244 refs/tags/0.1.0
+f9dd820e927f02f116d4317c37cafd1a0e0a94f3 refs/tags/0.2.0
+^5f19fb8bc75ecc0c5e64f21786a8745202d41699
+55bfacc44adc5ab9f85a47c822b8b93f41e3dc7f refs/tags/0.2.1
+e80ac88edd7fc79d25e75dead2f7f52996dc420f refs/tags/0.3.0
+953518ce07da63847835142ecfbd3026fa9f6cc7 refs/tags/0.3.0-nullsafety.0
+7e2d7172c4bb56f935ffe9f90b3e5c5fbdd901d6 refs/tags/0.3.1
+7fc3c3e7a2994d3e92b0780d038efafad634b8c0 refs/tags/0.3.2
+3e217ca8007c8e5dfc82b6792240a12e88838343 refs/tags/0.3.3
+9329057dc5b7714dd028589fce3a476b38251447 refs/tags/0.3.4
+b7df0fa99d98154277cf5e94d86392cd7576c2cb refs/tags/0.3.5
+06e326e4080a0c3da9e38a10e4dbb64483a19648 refs/tags/0.4.0
+568a289a0c2e9b43abde289e253bca3f2f9f5cf0 refs/tags/0.5.0
+8fab581c0f1a2e1e071edf13f621361b06124889 refs/tags/0.5.1
+c89f1eaddb94cca705d7e602a0c326e271680bf4 refs/tags/0.5.2
+b0ba1baf37534bbe23a9d181e9150e5617f01bfa refs/tags/0.6.0
+f4bfabe62d47302e2fab42c7951dd157d9c5e83a refs/tags/0.6.1
+2725a0c414ec29be7a2858f18606feb7e3f6deca refs/tags/0.7.0
+fb9ab07ab71835448a4a2b855f837d5444a34fd6 refs/tags/1.0.0-alpha.1
+^bb7c1062282c29729cea7989fb346828d5a4a74c

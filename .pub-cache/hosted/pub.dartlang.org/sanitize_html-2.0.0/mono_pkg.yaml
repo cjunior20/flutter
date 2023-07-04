@@ -1,0 +1,8 @@
+dart:
+  - beta
+stages:
+  - analyze:
+      - dartanalyzer
+      - dartfmt
+  - tests:
+      - test
